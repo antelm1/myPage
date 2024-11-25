@@ -67,7 +67,7 @@ ul {
   text-align: center;
   padding-bottom: 25px;
 }
-@media (min-width: 769px) and (max-width: 1600px) {
+@media (min-width: 769px) {
   .container2 {
     margin-top: 55px;
     display: flex;
